@@ -14,6 +14,7 @@ body{
     color: #333;
     padding: 3.5em;
     background: url(fondo.png) no-repeat center center fixed;
+    background-color: #140a04;
 }
 
 .logo{
@@ -70,3 +71,4 @@ p.primario{
 #bottone1:hover {
  background-color: #DB9708;
 }
+
