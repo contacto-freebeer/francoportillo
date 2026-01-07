@@ -45,7 +45,7 @@ p.primario{
     display: flex;
   justify-content: center; /* Centers horizontally */
   align-items: center;     /* Centers vertically */
-  height: 100vh;           /* Example: Centers in the full viewport height */
+  height: auto;           /* Example: Centers in the full viewport height */
 }
 
 .contenedorinterno{
@@ -75,6 +75,7 @@ p.primario{
 #bottone1:hover {
  background-color: #DB9708;
 }
+
 
 
 
