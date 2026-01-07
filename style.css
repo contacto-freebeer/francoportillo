@@ -42,15 +42,12 @@ p.primario{
     background-color: #25100383;
     border-radius: 30px;
     box-shadow: 0 0px 16px 0 rgba(126, 106, 70, 0.089);
-    display: flex;
-  justify-content: center; /* Centers horizontally */
-  align-items: center;     /* Centers vertically */
 }
 
 .contenedorinterno{
     width: max-content;
     min-width: auto;
-        align-items: center;
+    align-items: center;
 }
 
 #bottone1 {
@@ -74,6 +71,7 @@ p.primario{
 #bottone1:hover {
  background-color: #DB9708;
 }
+
 
 
 
